@@ -1,0 +1,5 @@
+# Marker IDs can be arbitrary strings.
+# Marker ID,	Time (in s)
+L,	1.7217
+R,	3.2563
+L,	5.1255
